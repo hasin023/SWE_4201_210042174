@@ -1,0 +1,11 @@
+E:\VS_C#\Students Admission System\Students Admission System\bin\Debug\Students Admission System.exe.config
+E:\VS_C#\Students Admission System\Students Admission System\bin\Debug\Students Admission System.exe
+E:\VS_C#\Students Admission System\Students Admission System\bin\Debug\Students Admission System.pdb
+E:\VS_C#\Students Admission System\Students Admission System\obj\Debug\Students Admission System.csproj.AssemblyReference.cache
+E:\VS_C#\Students Admission System\Students Admission System\obj\Debug\Students Admission System.csproj.SuggestedBindingRedirects.cache
+E:\VS_C#\Students Admission System\Students Admission System\obj\Debug\Students_Admission_System.SAS.resources
+E:\VS_C#\Students Admission System\Students Admission System\obj\Debug\Students_Admission_System.Properties.Resources.resources
+E:\VS_C#\Students Admission System\Students Admission System\obj\Debug\Students Admission System.csproj.GenerateResource.cache
+E:\VS_C#\Students Admission System\Students Admission System\obj\Debug\Students Admission System.csproj.CoreCompileInputs.cache
+E:\VS_C#\Students Admission System\Students Admission System\obj\Debug\Students Admission System.exe
+E:\VS_C#\Students Admission System\Students Admission System\obj\Debug\Students Admission System.pdb

@@ -1,0 +1,8 @@
+E:\VS_C#\BookStore\BookStore\bin\Debug\BookStore.exe.config
+E:\VS_C#\BookStore\BookStore\bin\Debug\BookStore.exe
+E:\VS_C#\BookStore\BookStore\bin\Debug\BookStore.pdb
+E:\VS_C#\BookStore\BookStore\obj\Debug\BookStore.csproj.AssemblyReference.cache
+E:\VS_C#\BookStore\BookStore\obj\Debug\BookStore.csproj.SuggestedBindingRedirects.cache
+E:\VS_C#\BookStore\BookStore\obj\Debug\BookStore.csproj.CoreCompileInputs.cache
+E:\VS_C#\BookStore\BookStore\obj\Debug\BookStore.exe
+E:\VS_C#\BookStore\BookStore\obj\Debug\BookStore.pdb

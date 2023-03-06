@@ -1,0 +1,11 @@
+E:\VS_C#\Banking Management System\Banking Management System\bin\Debug\Banking Management System.exe.config
+E:\VS_C#\Banking Management System\Banking Management System\bin\Debug\Banking Management System.exe
+E:\VS_C#\Banking Management System\Banking Management System\bin\Debug\Banking Management System.pdb
+E:\VS_C#\Banking Management System\Banking Management System\obj\Debug\Banking Management System.csproj.AssemblyReference.cache
+E:\VS_C#\Banking Management System\Banking Management System\obj\Debug\Banking Management System.csproj.SuggestedBindingRedirects.cache
+E:\VS_C#\Banking Management System\Banking Management System\obj\Debug\Banking_Management_System._bms.resources
+E:\VS_C#\Banking Management System\Banking Management System\obj\Debug\Banking_Management_System.Properties.Resources.resources
+E:\VS_C#\Banking Management System\Banking Management System\obj\Debug\Banking Management System.csproj.GenerateResource.cache
+E:\VS_C#\Banking Management System\Banking Management System\obj\Debug\Banking Management System.csproj.CoreCompileInputs.cache
+E:\VS_C#\Banking Management System\Banking Management System\obj\Debug\Banking Management System.exe
+E:\VS_C#\Banking Management System\Banking Management System\obj\Debug\Banking Management System.pdb

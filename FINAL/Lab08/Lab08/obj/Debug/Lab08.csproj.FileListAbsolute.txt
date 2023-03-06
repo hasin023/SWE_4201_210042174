@@ -1,0 +1,8 @@
+E:\VS_C#\Lab08\Lab08\bin\Debug\Lab08.exe.config
+E:\VS_C#\Lab08\Lab08\bin\Debug\Lab08.exe
+E:\VS_C#\Lab08\Lab08\bin\Debug\Lab08.pdb
+E:\VS_C#\Lab08\Lab08\obj\Debug\Lab08.csproj.AssemblyReference.cache
+E:\VS_C#\Lab08\Lab08\obj\Debug\Lab08.csproj.SuggestedBindingRedirects.cache
+E:\VS_C#\Lab08\Lab08\obj\Debug\Lab08.csproj.CoreCompileInputs.cache
+E:\VS_C#\Lab08\Lab08\obj\Debug\Lab08.exe
+E:\VS_C#\Lab08\Lab08\obj\Debug\Lab08.pdb
