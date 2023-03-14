@@ -20,34 +20,38 @@ namespace Lab_09
 
         public void checkUser(string str)
         {
-            string username = $@"E:\VS_C#\SWE_4201_210042174\FINAL\Lab 09\{str}.txt";
-            string password = $@"E:\VS_C#\SWE_4201_210042174\FINAL\Lab 09\{str}.txt";
+            string user = $@"E:\VS_C#\SWE_4201_210042174\FINAL\Lab 09\Users\{str}.txt";
 
-            if (File.Exists(username) && File.Exists(password))
+            if (File.Exists(user))
             {
-                string[] users = File.ReadAllLines(username);
-                string[] pass = File.ReadAllLines(password);
+                string[] users = File.ReadAllLines(user);
 
                 foreach (string u in users)
                 {
-                    if (usertxt.Text == u)
+                    if (u.Contains("un:"))
                     {
-                        foreach (string p in pass)
+                        if (usertxt.Text == u.Remove(0, 3))
                         {
-                            if (passtxt.Text == p)
+                            foreach (string p in users)
                             {
-                                this.Hide();
-
-                            }
-                            else
-                            {
-                                MessageBox.Show("Incorrect Password", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                                if (p.Contains("pass:"))
+                                {
+                                    if (passtxt.Text == p.Remove(0, 5))
+                                    {
+                                        this.Hide();
+                                        new Dashboard().Show();
+                                    }
+                                    else
+                                    {
+                                        MessageBox.Show("Incorrect Password", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                                    }
+                                }
                             }
                         }
-                    }
-                    else
-                    {
-                        MessageBox.Show("Account does not exist", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                        else
+                        {
+                            MessageBox.Show("Account does not exist", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                        }
                     }
                 }
             }

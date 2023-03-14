@@ -1,0 +1,13 @@
+E:\VS_C#\SWE_4201_210042174\FINAL\Lab 09\Lab 09\bin\Debug\Lab 09.exe.config
+E:\VS_C#\SWE_4201_210042174\FINAL\Lab 09\Lab 09\bin\Debug\Lab 09.exe
+E:\VS_C#\SWE_4201_210042174\FINAL\Lab 09\Lab 09\bin\Debug\Lab 09.pdb
+E:\VS_C#\SWE_4201_210042174\FINAL\Lab 09\Lab 09\obj\Debug\Lab 09.csproj.AssemblyReference.cache
+E:\VS_C#\SWE_4201_210042174\FINAL\Lab 09\Lab 09\obj\Debug\Lab 09.csproj.SuggestedBindingRedirects.cache
+E:\VS_C#\SWE_4201_210042174\FINAL\Lab 09\Lab 09\obj\Debug\Lab_09.Dashboard.resources
+E:\VS_C#\SWE_4201_210042174\FINAL\Lab 09\Lab 09\obj\Debug\Lab_09.Login.resources
+E:\VS_C#\SWE_4201_210042174\FINAL\Lab 09\Lab 09\obj\Debug\Lab_09.Properties.Resources.resources
+E:\VS_C#\SWE_4201_210042174\FINAL\Lab 09\Lab 09\obj\Debug\Lab_09.Registration.resources
+E:\VS_C#\SWE_4201_210042174\FINAL\Lab 09\Lab 09\obj\Debug\Lab 09.csproj.GenerateResource.cache
+E:\VS_C#\SWE_4201_210042174\FINAL\Lab 09\Lab 09\obj\Debug\Lab 09.csproj.CoreCompileInputs.cache
+E:\VS_C#\SWE_4201_210042174\FINAL\Lab 09\Lab 09\obj\Debug\Lab 09.exe
+E:\VS_C#\SWE_4201_210042174\FINAL\Lab 09\Lab 09\obj\Debug\Lab 09.pdb
