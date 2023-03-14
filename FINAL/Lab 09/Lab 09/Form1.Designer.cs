@@ -1,6 +1,6 @@
 ﻿namespace Lab_09
 {
-    partial class Form1
+    partial class Login
     {
         /// <summary>
         /// Required designer variable.
@@ -113,7 +113,7 @@
             this.usertxt.Size = new System.Drawing.Size(176, 22);
             this.usertxt.TabIndex = 10;
             // 
-            // Form1
+            // Login
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
@@ -126,7 +126,7 @@
             this.Controls.Add(this.LoginLabel);
             this.Controls.Add(this.passtxt);
             this.Controls.Add(this.usertxt);
-            this.Name = "Form1";
+            this.Name = "Login";
             this.Text = "Form1";
             this.ResumeLayout(false);
             this.PerformLayout();

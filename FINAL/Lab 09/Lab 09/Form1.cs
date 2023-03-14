@@ -4,9 +4,9 @@ using System.Windows.Forms;
 
 namespace Lab_09
 {
-    public partial class Form1 : Form
+    public partial class Login : Form
     {
-        public Form1()
+        public Login()
         {
             InitializeComponent();
         }
@@ -14,13 +14,14 @@ namespace Lab_09
         private void regLink_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
         {
             this.Hide();
+            new Registration().Show();
         }
 
 
         public void checkUser(string str)
         {
-            string username = $@"E:\VS_C#\Lab009\usernames\{str}.txt";
-            string password = $@"E:\VS_C#\Lab009\passwords\{str}.txt";
+            string username = $@"E:\VS_C#\SWE_4201_210042174\FINAL\Lab 09\{str}.txt";
+            string password = $@"E:\VS_C#\SWE_4201_210042174\FINAL\Lab 09\{str}.txt";
 
             if (File.Exists(username) && File.Exists(password))
             {
